@@ -1,4 +1,4 @@
-# Sales-Report--Excel-Project
+# Sales Report (Excel Project)
 
 Data Source- https://github.com/shadsluiter/ExcelExamples/blob/master/CrystalPools.xlsx
 
