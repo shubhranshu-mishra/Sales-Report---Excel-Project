@@ -1,10 +1,12 @@
 # Sales Report (Excel Project)
 
-Data Source- https://github.com/shadsluiter/ExcelExamples/blob/master/CrystalPools.xlsx
+### Data Source- 
+https://github.com/shadsluiter/ExcelExamples/blob/master/CrystalPools.xlsx
 
-Given- Data given is put in 1st sheet as Raw Data
+### Given- 
+Data given is put in 1st sheet as Raw Data
 
-Procedure- 
+### Procedure- 
 - Sales person name was divided into first name and last name
 - Filter was applied and wrap text performed 
 - Profit was calculated using sale price and store cost
@@ -13,7 +15,7 @@ Procedure-
 - Sum was calculated for all parameters 
 - Pivot table was created and total sales of each salesman were calculated and shown using Pie Chart
 
-Excel formulas/functions used
+### Excel formulas/functions used
 - Text to Column
 - IF
 - SUMIF
@@ -24,4 +26,4 @@ Excel formulas/functions used
 - SUM
 - Arithamtic Operators (+,-,*,/) 
 
-Done by Shubhranshu Mishra (Github: shubhranshu-mishra)
+### Done by Shubhranshu Mishra (Github: shubhranshu-mishra)
